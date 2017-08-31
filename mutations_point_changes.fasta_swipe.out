@@ -1,0 +1,7 @@
+# SWIPE 2.0.5 - Compiled Aug  9 2012 11:48:18 - Reference: T. Rognes (2011) Faster Smith-Waterman database searches with inter-sequence SIMD parallelisation, BMC Bioinformatics, 12:221.
+# Query: Human_MHC_DNA
+# Database: mutations_point_changes.fasta
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Human_MHC_DNA	gnl|BL_ORD_ID|662	42.31	26	12	1	90	112	136	161	3.6	26.2
+Human_MHC_DNA	gnl|BL_ORD_ID|969	61.54	13	5	0	940	952	222	234	4.8	25.8
+Human_MHC_DNA	gnl|BL_ORD_ID|617	36.59	41	22	1	1030	1066	92	132	8.1	25.0
